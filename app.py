@@ -22,8 +22,8 @@ model = load_model()
 with st.sidebar:
     st.header("Tentang Sistem")
     st.write(
-        "Aplikasi Sistem Pendukung Keputusan untuk deteksi dini "
-        "risiko anemia menggunakan algoritma **Gaussian Naive Bayes**."
+        "klasifikasi penyakit anemia menggunakan  "
+        "algoritma **Naive Bayes** berdasarkan dataset kaggle."
     )
     st.markdown("---")
     st.subheader("Panduan Nilai Rujukan Umum:")
