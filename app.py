@@ -39,8 +39,8 @@ with st.sidebar:
     st.caption("Skripsi Teknik Informatika - Universitas Aisyah Pringsewu")
 
 # --- TAMPILAN UTAMA ---
-st.title("🩺 Sistem Klasifikasi Penyakit Anemia")
-st.subheader("Puskesmas Wates — Algoritma Naive Bayes")
+st.title("🩺Klasifikasi Penyakit Anemia")
+st.subheader("Algoritma Naive Bayes")
 st.write("Masukkan data hasil pemeriksaan laboratorium pasien pada formulir di bawah ini:")
 
 # Formulir input data pasien
